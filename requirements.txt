@@ -2,4 +2,4 @@ streamlit
 requests
 transformers
 dotenv
---use-pep517
+pip
