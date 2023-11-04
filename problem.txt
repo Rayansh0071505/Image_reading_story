@@ -1,0 +1,5 @@
+1) while extracting model from huggingface 
+problem - KeyError: 'mistral'
+solution - pip install -U transformers
+
+2) 

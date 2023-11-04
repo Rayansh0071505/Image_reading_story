@@ -1,0 +1,2 @@
+first use image to text model
+then use that text model as prompt for generative more text
