@@ -5,3 +5,4 @@ python-dotenv
 pip
 torch
 tensorflow
+IPython
