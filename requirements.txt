@@ -1,5 +1,5 @@
 streamlit
 requests
 transformers
-dotenv
+python-dotenv
 pip
