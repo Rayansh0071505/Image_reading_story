@@ -28,6 +28,7 @@ if st.button("Generate Text from Image"):
     API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
     headers = {"Authorization": f"Bearer {HUGGINGFACEHUB_API_TOKENS}"}
 
+
     def query(prompt, max_new_tokens=200):
         payload = {
             "inputs": prompt,
