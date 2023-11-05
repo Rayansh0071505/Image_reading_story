@@ -3,5 +3,4 @@ requests
 transformers
 python-dotenv
 torch
-tensorflow
 IPython
